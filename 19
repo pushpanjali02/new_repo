@@ -1,0 +1,9 @@
+commit is used to take snapshots
+which can be used to the changes made to a brach at every instance (when ever you commited the changes)
+branches allows to divide the work into different groups 
+using  ""git branch <branch name>"" we can create a new branch
+next can commit some changes
+we can check the branch using ""git checkout <brach name>""
+again to move back to main branch we need to enter ""git checkout main"" command
+again we can checkout using "" git checkout main"" command
+to merge these 2 branches we have the commad "" git merge <brach name>"" command
